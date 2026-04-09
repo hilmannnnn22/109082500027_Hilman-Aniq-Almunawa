@@ -44,7 +44,7 @@ func main() {
 
 	fmt.Print("Masukkan tinggi zat cair tabung kanan : ")
 	fmt.Scan(&tKanan)
-	fmt.Print("Masukkan massa jenis zat cair tabung kanan : ")
+	fmt.Print("Masukka massa jenis zat cair tabung kanan : ")
 	fmt.Scan(&mjKanan)
 
 	fmt.Println()

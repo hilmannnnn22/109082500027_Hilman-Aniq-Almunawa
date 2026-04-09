@@ -53,5 +53,5 @@ func main() {
 
 	perhitunganBiaya(jumlah, lama, tujuan, &biaya)
 
-	fmt.Printf("Biaya perjalanan yang harus dikeluarkan Tel-U: %.0f\n", biaya)
+	fmt.Printf("Biay perjalanan yang harus dikeluarkan Tel-U: %.0f\n", biaya)
 }
