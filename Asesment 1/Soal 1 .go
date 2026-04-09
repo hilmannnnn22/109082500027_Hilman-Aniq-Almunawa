@@ -1,4 +1,5 @@
 package main
+
 import "fmt"
 
 const pi float64 = 3.14
