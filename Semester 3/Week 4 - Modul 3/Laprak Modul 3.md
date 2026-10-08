@@ -25,7 +25,7 @@ struct mahasiswa{
 
 void inputMhs (mahasiswa &m);
 float rata2 (mahasiswa m);
-#endif // MAHASISWA_H_INCLUDED```C++
+#endif // MAHASISWA_H_INCLUDED
 ```
 #### penjelasan guided 1
 Pada kode ini dibuat struct mahasiswa yang berisi nim, nilai1, dan nilai2. Kemudian inputMhs() dan rata2() dideklarasikan untuk digunakan pada program. Bagian #ifndef, #define, dan #endif digunakan supaya header tidak didefinisikan lebih dari satu kali.
@@ -135,18 +135,18 @@ int main()
 #### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/hilmannnnn22/109082500027_Hilman-Aniq-Almunawa/blob/main/Semester%203/Week%203%20-%20Modul%202/Unguided%201/Output-1.png)
+![Output Unguided 1](https://github.com/hilmannnnn22/109082500027_Hilman-Aniq-Almunawa/blob/main/Semester%203/Week%204%20-%20Modul%203/Unguided%201/Output-1.png)
 
 ##### Output 2
-
+![Output Unguided 1](https://github.com/hilmannnnn22/109082500027_Hilman-Aniq-Almunawa/blob/main/Semester%203/Week%204%20-%20Modul%203/Unguided%201/Output-2.png)
 
 #### penjelasan unguided 1 
 Di bagian dataMahasiswa.h saya membuat struct mahasiswa yang berisi nama, NIM, UTS, UAS, tugas, dan nilai akhir. Lalu saya buat fungsi hitungNilaiAkhir() untuk menghitung nilai akhir.
 
-Di file dataMahasiswa.cpp, fungsi tersebut berisi perhitungan nilai akhir sesuai rumus yang ada di soal. Setelah itu di main.cpp saya membuat array mhs[10] untuk menampung data mahasiswa, kemudian memasukkan nilai UTS, UAS, dan tugas. Setelah semua data dimasukkan, fungsi hitungNilaiAkhir() dipanggil dan hasil nilai akhirnya ditampilkan.
+Di file dataMahasiswa.cpp, fungsi tersebut berisi perhitungan nilai akhir sesuai rumus yang ada di soal. Setelah itu di main.cpp saya membuat array mhs[10] untuk menampung data mahasiswa, kemudian memasukkan nama, NIM, nilai UTS, UAS, dan tugas. Setelah semua data dimasukkan, fungsi hitungNilaiAkhir() dipanggil dan hasil nilai akhirnya ditampilkan.
 
 
-### 2. pelajar
+### 2. pelajaran
 
 ```C++
 pelajaran.h
@@ -208,7 +208,7 @@ int main()
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/hilmannnnn22/109082500027_Hilman-Aniq-Almunawa/blob/main/Semester%203/Week%203%20-%20Modul%202/Unguided%202/Output-1.png)
+![Output Unguided 2](https://github.com/hilmannnnn22/109082500027_Hilman-Aniq-Almunawa/blob/main/Semester%203/Week%204%20-%20Modul%203/Unguided%202/Output-1.png)
 
 #### penjelasan unguided 2
 Di bagian pelajaran.h saya membuat struct pelajaran yang berisi nama mata pelajaran dan kode mata pelajaran. Lalu dibuat fungsi create_pelajaran() untuk membuat data pelajaran dan tampil_pelajaran() untuk menampilkan datanya.
@@ -318,7 +318,7 @@ int main()
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided 3_1](https://github.com/hilmannnnn22/109082500027_Hilman-Aniq-Almunawa/blob/main/Semester%203/Week%203%20-%20Modul%202/Unguided%203/Output-1.png)
+![Output Unguided 3](https://github.com/hilmannnnn22/109082500027_Hilman-Aniq-Almunawa/blob/main/Semester%203/Week%204%20-%20Modul%203/Unguided%203/Output-1.png)
 
 #### penjelasan unguided 3
 Di bagian array2D.h saya membuat beberapa fungsi untuk digunakan pada program, yaitu fungsi untuk menampilkan array, menukar isi dua array pada posisi tertentu, dan menukar nilai dari dua pointer.
