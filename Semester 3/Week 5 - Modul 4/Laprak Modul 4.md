@@ -371,7 +371,7 @@ Kode main.cpp ini digunakan untuk menjalankan program linked list. Pertama, prog
 
 ### 1. Implementasi ADT Singly Linked List
 ```C++
-singlylist.h
+Singlylist.h
 #ifndef SINGLYLIST_H
 #define SINGLYLIST_H
 
@@ -471,7 +471,7 @@ int main()
 #### Output Unguided 1 :
 
 ##### Output 1
-![Output Unguided 1](https://github.com/hilmannnnn22/109082500027_Hilman-Aniq-Almunawa/blob/main/Semester%203/Week%204%20-%20Modul%203/Unguided%201/Output-1.png)
+![Output Unguided 1](https://github.com/hilmannnnn22/109082500027_Hilman-Aniq-Almunawa/blob/main/Semester%203/Week%205%20-%20Modul%204/Unguided%201/Output-1.png)
 
 #### penjelasan unguided 1 
 Di bagian Singlylist.h saya membuat struct ElmList dan List beserta deklarasi fungsi createList(), alokasi(), dealokasi(), printInfo(), dan insertFirst().
@@ -649,7 +649,7 @@ int main()
 ### Output Unguided 2 :
 
 ##### Output 1
-![Output Unguided 2](https://github.com/hilmannnnn22/109082500027_Hilman-Aniq-Almunawa/blob/main/Semester%203/Week%204%20-%20Modul%203/Unguided%202/Output-1.png)
+![Output Unguided 2](https://github.com/hilmannnnn22/109082500027_Hilman-Aniq-Almunawa/blob/main/Semester%203/Week%205%20-%20Modul%204/Unguided%202/Output-1.png)
 
 #### penjelasan unguided 2
 Di bagian Singlylist.h saya menambahkan deklarasi fungsi deleteFirst(), deleteLast(), deleteAfter(), nbList(), dan deleteList().
