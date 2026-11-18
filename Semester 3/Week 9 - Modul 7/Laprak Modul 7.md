@@ -242,7 +242,7 @@ int main() {
 ```
 #### Output Unguided 1 :
 ##### Output 1
-![Output Unguided 1](https://github.com/hilmannnnn22/109082500027_Hilman-Aniq-Almunawa/blob/ca67ec001806bd1189700483b9e5128e564ebf10/Semester%203/Week%207%20-%20Modul%206/Unguided%201/Output-1.png)
+![Output Unguided 1](https://github.com/hilmannnnn22/109082500027_Hilman-Aniq-Almunawa/blob/a79acb4dd2ae97ef6ef306efec4602c4e280f614/Semester%203/Week%209%20-%20Modul%207/Unguided%201/Output-1.png)
 
 #### penjelasan unguided 1 
 Di file stack.h dibuat struktur Stack menggunakan array dengan kapasitas 20 elemen. Di sini juga dideklarasikan fungsi-fungsi yang akan digunakan untuk mengelola Stack.Di file stack.cpp dibuat isi dari fungsi-fungsi tersebut, mulai dari membuat Stack kosong, menambahkan dan mengambil data, menampilkan isi Stack, sampai membalik urutan Stack.Di file main.cpp dibuat program utama untuk mencoba operasi push dan pop sesuai instruksi soal. Setelah itu, isi Stack ditampilkan, kemudian dibalik menggunakan balikStack() dan ditampilkan kembali.
@@ -377,7 +377,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Output Unguided 2](https://github.com/hilmannnnn22/109082500027_Hilman-Aniq-Almunawa/blob/ca67ec001806bd1189700483b9e5128e564ebf10/Semester%203/Week%207%20-%20Modul%206/Unguided%202/Output-1.png)
+![Output Unguided 2](https://github.com/hilmannnnn22/109082500027_Hilman-Aniq-Almunawa/blob/a79acb4dd2ae97ef6ef306efec4602c4e280f614/Semester%203/Week%209%20-%20Modul%207/Unguided%202/Output-1.png)
 
 #### penjelasan unguided 2
 
@@ -522,7 +522,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Output Unguided 3](https://github.com/hilmannnnn22/109082500027_Hilman-Aniq-Almunawa/blob/ca67ec001806bd1189700483b9e5128e564ebf10/Semester%203/Week%207%20-%20Modul%206/Unguided%203/Output-1.png)
+![Output Unguided 3](https://github.com/hilmannnnn22/109082500027_Hilman-Aniq-Almunawa/blob/a79acb4dd2ae97ef6ef306efec4602c4e280f614/Semester%203/Week%209%20-%20Modul%207/Unguided%203/Output-1.png)
 
 #### penjelasan unguided 3
 Di file stack.h ditambahkan deklarasi fungsi getInputStream yang digunakan untuk membaca input dari user.Di file stack.cpp dibuat fungsi getInputStream yang membaca setiap karakter menggunakan cin.get(). Setiap angka yang dimasukkan akan disimpan ke dalam Stack sampai user menekan Enter.Di file main.cpp ditambahkan pemanggilan getInputStream() untuk menerima input dari user. Setelah itu, isi Stack ditampilkan dan dibalik menggunakan balikStack().
